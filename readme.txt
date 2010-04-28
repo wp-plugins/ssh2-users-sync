@@ -6,8 +6,8 @@ Requires at least: 2.7
 Tested up to: 2.9.2
 Stable tag: 0.01
 
-This plugin syncronizes the users of a Wordpress installation with a SSH2 server users in a simple manner like:
-If the user exists in the SSH2 server, then it can be created in the installation.
+This plugin syncronizes the users of Wordpress with a SSH2 server like:
+If the user exists in the SSH2 server, then it can be created in Wordpress.
 
 == Description ==
 
