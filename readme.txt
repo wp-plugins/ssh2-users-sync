@@ -1,5 +1,6 @@
-=== Plugin Name ===
-Contributors: Vinicius Massuchetto
+=== SSH2 Users Sync ===
+
+Contributors: viniciusmassuchetto
 Donate link: http://vinicius.soylocoporti.org.br/
 Tags: users, ssh, authentication
 Requires at least: 2.7
