@@ -1,11 +1,11 @@
 === SSH2 Users Sync ===
 
-Contributors: viniciusmassuchetto
-Donate link: http://vinicius.soylocoporti.org.br/
+Contributors: vmassuchetto
+Donate link: http://vmassuchetto.wordpress.com
 Tags: users, ssh, authentication
 Requires at least: 2.7
 Tested up to: 2.9.2
-Stable tag: 0.01
+Stable tag: 0.02
 
 This plugin syncronizes the users of Wordpress with a SSH2 server like:
 If the user exists in the SSH2 server, then it can be created in Wordpress.
